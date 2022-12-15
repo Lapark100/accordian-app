@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accordian-app/static/css/main.8e9efb38.css",
+    "main.js": "/accordian-app/static/js/main.24050e8b.js",
+    "index.html": "/accordian-app/index.html",
+    "main.8e9efb38.css.map": "/accordian-app/static/css/main.8e9efb38.css.map",
+    "main.24050e8b.js.map": "/accordian-app/static/js/main.24050e8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9efb38.css",
+    "static/js/main.24050e8b.js"
+  ]
+}
